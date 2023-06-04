@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Nitroxone, sometimes shortened as 'ntrx'.
-- 👀 I’m interested in anything related to web programming, languages like PHP/Rust/JS, UI/UX, and graphical design.
-- 🌱 I’m currently learning PHP/Symfony, JS, Big Data programming and a bunch of other cool things at the University of Limoges (France).
-- 💞️ I’m down to collaborate on anything if I have some spare time !
-- 📫 You can reach me on my Twitter @omgitsnitroxone, or via email thenitroxone@gmail.com !
-
-<!---
-Nitroxone/Nitroxone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hi I’m @Nitroxone (or 'ntrx')
+- I'm a web developer
+- actively working on a roguelite game named Soulbinder (tba)
+- I like: writing clean and well documented code, UI design, coffee
+- I don't like:  dependencies, Internet Explorer, tea
+- email: kraenash at gmail dot com
