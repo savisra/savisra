@@ -2,5 +2,5 @@ hi I’m @Nitroxone (or 'ntrx')
 - I'm a web developer
 - actively working on a roguelite game named Soulbinder (tba)
 - I like: writing clean and well documented code, UI design, coffee
-- I don't like:  dependencies, Internet Explorer, tea
+- I dislike: dependencies, Internet Explorer, people who mix English with French
 - email: kraenash at gmail dot com
